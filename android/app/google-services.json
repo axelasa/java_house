@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "935612972105",
+    "project_id": "java-shop-e6700",
+    "storage_bucket": "java-shop-e6700.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935612972105:android:aa52ea6af5c9951ead9398",
+        "android_client_info": {
+          "package_name": "com.example.java_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935612972105-p1ggsg7mloo5jv3n6585suh8j3kbl9ug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-lKLd67coWhMyDkJXSpbBHuxiC2Dbhu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935612972105-p1ggsg7mloo5jv3n6585suh8j3kbl9ug.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "935612972105-r32879oup0gkcuon5esihkglf3eneko6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.javaShop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
